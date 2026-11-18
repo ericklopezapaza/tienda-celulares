@@ -1,0 +1,39 @@
+
+.container {
+  max-width: 650px;
+  margin: 40px auto;
+  padding: 25px;
+  font-family: Arial, sans-serif;
+  background-color: white;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px #cccccc;
+}
+
+h1 {
+  text-align: center;
+  color: #0051ff;
+}
+
+h3 {
+  color: #333333;
+}
+
+.producto {
+  background-color: #f2f6fc;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+.si {
+  color: green;
+  font-weight: bold;
+}
+
+.no {
+  color: red;
+  font-weight: bold;
+}
+
+li {
+  margin-bottom: 8px;
+}
